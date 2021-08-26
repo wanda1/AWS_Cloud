@@ -12,4 +12,4 @@ This code will be clustering cryptocurrency data and creating plots to present r
 
 - Clustering Cryptocurrencies Using K-Means: Predict clusters using the cryptocurrencies data using the KMeans algorithm from sklearn.</br></br>
 
-- Visualizing Results: Create some plots and data tables to present the results.
+- Visualizing Results: Create plots and data tables to present the results.
