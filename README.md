@@ -4,7 +4,7 @@ Homework Due 08/26/2021</br></br>
 
 This code will be clustering cryptocurrency data and creating plots to present results.</br></br>
 
-#This code will accomplish the following main tasks:</br></br>
+## This code will accomplish the following main tasks:</br></br>
 
 - Data Preprocessing: Prepare data for dimension reduction with PCA and clustering using K-Means.</br></br>
 
